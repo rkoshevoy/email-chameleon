@@ -1,3 +1,5 @@
 /node_modules/
 /icons/
 /img/
+/package.json/
+/gulpfile.js/
